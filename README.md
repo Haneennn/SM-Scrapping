@@ -1,4 +1,4 @@
-# SM-Scrapping
+# Data Scrapping from Social Media Platform
 # Introduction
 This project involves scraping Twitter data using Python to extract and analyze data from Twitter profiles. The goal is to gain insights and understand trends from the scraped data. The project utilizes the requests and pandas libraries for accessing Twitter's public APIs and processing the data efficiently.
 
